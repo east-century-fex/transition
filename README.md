@@ -1,9 +1,9 @@
 <h1 align="center">Transition</h1>
 
 <p align="center">
-    <a href="https://travis-ci.com/jiaming743/transition"><img src="https://img.shields.io/travis/com/jiaming743/transition.svg" alt="Travis CI"></a>
-    <a href="https://github.com/jiaming743/transition/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jiaming743/transition.svg" alt="LICENSE" /> </a>
-    <a href="https://www.npmjs.com/package/@jiaminghi/transition"><img src="https://img.shields.io/npm/v/@jiaminghi/transition.svg" alt="NPM" /></a>
+    <!-- <a href="https://travis-ci.com/jiaming743/transition"><img src="https://img.shields.io/travis/com/jiaming743/transition.svg" alt="Travis CI"></a> -->
+    <a href="https://github.com/east-century-fex/transition/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jiaming743/transition.svg" alt="LICENSE" /> </a>
+    <a href="https://www.npmjs.com/package/@east-century/transition"><img src="https://img.shields.io/npm/v/@east-century/transition.svg" alt="NPM" /></a>
 </p>
 
 ### Transition是什么?
@@ -23,13 +23,13 @@
 ### npm安装
 
 ```shell
-$ npm install @jiaminghi/transition
+$ npm install @east-century/transition
 ```
 
 ### 使用
 
 ```javascript
-import { transition, injectNewCurve } from '@jiaminghi/transition'
+import { transition, injectNewCurve } from '@east-century/transition'
 
 // do something
 ```
@@ -37,11 +37,11 @@ import { transition, injectNewCurve } from '@jiaminghi/transition'
 ### 快速体验
 
 ```html
-<!--资源位于个人服务器仅供体验和测试，请勿在生产环境使用-->
+<!--资源位于github服务器仅供体验和测试，请勿在生产环境使用-->
 <!--调试版-->
-<script src="http://lib.jiaminghi.com/transition/transition.map.js"></script>
+<script src="https://github.com/east-century-fex/transition/tree/master/dist/transition.map.js"></script>
 <!--压缩版-->
-<script src="http://lib.jiaminghi.com/transition/transition.min.js"></script>
+<script src="https://github.com/east-century-fex/transition/tree/master/dist/transition.min.js"></script>
 <script>
   const { transition, injectNewCurve } = window.transition
   // do something

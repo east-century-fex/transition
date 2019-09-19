@@ -1,12 +1,12 @@
 {
-  "name": "@jiaminghi/transition",
-  "version": "1.1.11",
-  "author": "JiaMing <743192023@qq.com>",
+  "name": "@east-century/transition",
+  "version": "1.0.0",
+  "author": "fex <fex@hndfsj.com>",
   "description": "Dynamic effect plugin based Bezier Curve",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jiaming743/Transition.git"
+    "url": "https://github.com/east-century-fex/transition.git"
   },
   "scripts": {
     "build": "node build/index.js",
@@ -16,14 +16,14 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jiaming743/Transition/issues"
+    "url": "https://github.com/east-century-fex/transition/issues"
   },
   "keywords": [
     "bezierCurve",
     "animation",
     "transition"
   ],
-  "homepage": "https://github.com/jiaming743/transition#readme",
+  "homepage": "https://github.com/east-century-fex/transition/issues",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
