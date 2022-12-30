@@ -33,7 +33,7 @@
     "@jiaminghi/fs": "^0.0.2",
     "ftp": "^0.3.10",
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5"
